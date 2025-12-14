@@ -91,7 +91,7 @@ Massive spike in content production after **2010**, showing Netflix’s global e
 
 
 ```
-![Netflix Dashboard](Screenshot (54).png)
+![Netflix Dashboard](Screenshot(54).png)
 ```
 
 ---

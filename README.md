@@ -91,7 +91,8 @@ Massive spike in content production after **2010**, showing Netflix’s global e
 
 
 ```
-![Feature importance plot](Screenshot (54).png)
+<img width="1366" height="768" alt="Screenshot (54)" src="https://github.com/user-attachments/assets/bd33516d-ed51-48cd-b70c-a8b89a9e2c78" />
+
 
 ```
 

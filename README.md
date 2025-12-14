@@ -90,8 +90,8 @@ Massive spike in content production after **2010**, showing Netflix’s global e
 ## 📷 **Dashboard Preview**
 
 
-```<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/9a5001a9-c27f-4f8d-b19d-9edbd36d9f08" />
-
+```
+![Feature importance plot](Screenshot (54).png)
 
 ```
 

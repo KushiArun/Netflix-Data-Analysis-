@@ -91,7 +91,7 @@ Massive spike in content production after **2010**, showing Netflix’s global e
 
 
 ```
-![Netflix Dashboard](Screenshot_54.png)
+![Netflix Dashboard](Screenshot (54).png)
 ```
 
 ---
@@ -121,6 +121,6 @@ If you'd like to collaborate on data analytics or BI projects, feel free to conn
 
 **Kushi A**
 📌 *AI & Data Science Student*
-🔗 Portfolio: [*add your link*](https://kushi-portfolio-glow.lovable.app/)
-🔗 LinkedIn: [*add your link*](https://www.linkedin.com/in/kushi-a-43b291325)
+🔗 Portfolio: [*Portfolio*](https://kushi-portfolio-glow.lovable.app/)
+🔗 LinkedIn: [*Linkedin*](https://www.linkedin.com/in/kushi-a-43b291325)
 
